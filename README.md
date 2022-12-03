@@ -1,2 +1,17 @@
-# programming-courses
+
+# README
+
 Repositorío dos cusrsos que eu fizer relacionado a programação, aqui você terá acesso ao meu aprendizado.
+
+## Meta
+
+Com a meta de ser Desenvolvedor FullStack todos os meus estudos estatão aqui para até eu conseguir a tão sonhada vaga de FullStack
+
+## Stack utilizada (Irei atualizando de acordo com os estudos)
+
+**Back-end:** JavaScipt, TypeScript
+
+
+## Melhorias
+
+Para melhorar meu código pretendo estudar o Clean Code, para poder estar deixando meus códigos mais limpos. E cada vez mais aprender mais sobre estrutura e padrões de códigos.
