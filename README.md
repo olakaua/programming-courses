@@ -9,7 +9,7 @@ Com a meta de ser Desenvolvedor FullStack todos os meus estudos estatão aqui pa
 
 ## Stack utilizada (Irei atualizando de acordo com os estudos)
 
-**Back-end:** JavaScipt, TypeScript
+**Back-end:** JavaScipt, Node.js
 
 
 ## Melhorias
