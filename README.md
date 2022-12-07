@@ -1,7 +1,7 @@
 
 # README
 
-Repositórío dos cursos que eu fizer relacionado a programação, aqui você terá acesso ao meu aprendizado.
+Repositório dos cursos que eu fizer relacionado a programação, aqui você terá acesso ao meu aprendizado.
 
 ## Meta
 
