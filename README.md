@@ -20,3 +20,6 @@ Para melhorar meu código pretendo estudar o Clean Code, para poder estar deixan
 
 JavaScript e TypeScript do básico ao avançado
 (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+
+Dominando Git e GitHub - Do iniciante ao expert
+(https://www.udemy.com/course/dominando-git-e-github/)
