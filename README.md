@@ -22,7 +22,7 @@ JavaScript e TypeScript do básico ao avançado
 (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 
 Dominando Git e GitHub - Do iniciante ao expert
-(https://www.udemy.com/course/dominando-git-e-github/) - Completo
+(https://www.udemy.com/course/dominando-git-e-github/) - Concluído
 
 Imersão em Desenvolvimento de APIs com Node.js
 (https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel)
