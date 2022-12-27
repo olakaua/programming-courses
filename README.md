@@ -9,7 +9,7 @@ Com a meta de ser Desenvolvedor FullStack todos os meus estudos estatão aqui pa
 
 ## Stack utilizada (Irei atualizando de acordo com os estudos)
 
-**Back-end:** JavaScipt, Node.js
+**Back-end:** JavaScipt, Node.js, Git
 
 
 ## Melhorias
@@ -22,7 +22,7 @@ JavaScript e TypeScript do básico ao avançado
 (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 
 Dominando Git e GitHub - Do iniciante ao expert
-(https://www.udemy.com/course/dominando-git-e-github/)
+(https://www.udemy.com/course/dominando-git-e-github/) - Concluído
 
 Imersão em Desenvolvimento de APIs com Node.js
 (https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel)
