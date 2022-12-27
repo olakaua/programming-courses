@@ -26,3 +26,6 @@ Dominando Git e GitHub - Do iniciante ao expert
 
 Imersão em Desenvolvimento de APIs com Node.js
 (https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr?origin=CursoErickWendel)
+
+JavaScript do básico ao avançado (c/ Node.js e projetos)
+(https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/)
